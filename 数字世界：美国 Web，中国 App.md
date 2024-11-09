@@ -1,3 +1,12 @@
+---
+url: https://mp.weixin.qq.com/s/yNZ4M9hJn589s106gTjHeQ
+isOriginal: true
+author: 攀哥杨攀
+subscriptionAccount: 攀哥四十二
+publishTime: 2024年04月06日 01:20
+location: 北京
+---
+
 全文约 3806 字，阅读需要 10 分钟
 
 自从 2022 年写了[《IM 应用三定律》](http://mp.weixin.qq.com/s?__biz=MjM5NzY0NzAwMQ==&mid=2456882003&idx=1&sn=6b375ee99589125fea962d01a6543f97&chksm=b1536ca58624e5b38901c7ef5e30c38cfe8f06f6c7801073822b8de7dcfb029c9eb1bdee1bf4&scene=21#wechat_redirect)之后，我就开始尝试创建自己独立的逻辑思考体系，并把这些体系知识和行动决策结合起来，亦或有机会分享给其他一些创业者。
@@ -6,7 +15,7 @@
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/yLjyiaoEibbH1PL0ibibrdgYVnDfowXXicTFyIzpxR68hRNgJ4nIjhNkwDStmAFq5BiciaYr4Txd99dYlR9X3W2DTXQBw/640?wx_fmt=png&from=appmsg)
 
-欢迎关注我的微信公众号，我会持续给大家带来有价值的文章内容：
+欢迎关注我的微信公众号，我会持续给大家带来有价值的文章内容：  
 
 接下来，我试图通过中美应用生态是构建于 App 还是 Web 的分析，来推导为什么中国与美国之间在数字世界里产生了如此大的差异，并且这个差异越来越大。
 
@@ -19,7 +28,7 @@
 -   某些语境下，互联网市场包含移动互联网市场。
     
 
-接下来说观点：
+接下来说观点：  
 
 ## **中国移动互联网领先全球，美国 PC/Web 互联网领先全球**
 
@@ -115,6 +124,8 @@ BTW，因为百度并没有扮演好一个真正的搜索引擎角色，所以�
 
 * * *
 
+  
+
 提前预告一下，接下来我还会聊聊下面的话题：
 
 -   《中国企业/创业者出海路径》
@@ -125,6 +136,8 @@ BTW，因为百度并没有扮演好一个真正的搜索引擎角色，所以�
     
 
 再次欢迎大家关注我的公众号，有空的时候，我会陆续写一些。
+
+  
 
 4.5 生日随笔‍
 
