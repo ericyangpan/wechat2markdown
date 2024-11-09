@@ -1,0 +1,24 @@
+{
+  "name": "wechat2markdown",
+  "version": "1.0.0",
+  "description": "Convert WeChat Subscription Account Article to Markdown.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "wechat2markdown": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "wechat",
+    "markdown"
+  ],
+  "author": "Pan YANG",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "playwright": "^1.48.2",
+    "turndown": "^7.2.0"
+  }
+}
