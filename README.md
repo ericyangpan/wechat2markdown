@@ -24,11 +24,11 @@ npm install -g
 Convert WeChat Subscription Account Article to Markdown:
 
 ```bash
-wechat2markdown <url>
+wechat2md <url>
 ```
 
 ```bash
-% wechat2markdown "https://mp.weixin.qq.com/s/xXugkCnL0bQy9-6FTDuqHA" 
+% wechat2md "https://mp.weixin.qq.com/s/xXugkCnL0bQy9-6FTDuqHA" 
 Processing URL: https://mp.weixin.qq.com/s/xXugkCnL0bQy9-6FTDuqHA
 Loading page...
 Article title: GPT-4o 发布，「AI 时代」我们需要什么耳机？
