@@ -44,7 +44,9 @@ export async function crawlWeChatArticle(url) {
       const isOriginal = !!metaContent.querySelector('#copyright_logo');
       
       // Get author
-      const author = metaContent.querySelector('#js_author_name')?.textContent.trim() || '';
+      const author =
+        metaContent.querySelector("#js_author_name")?.textContent.trim() ||
+        metaContent.querySelector(".rich_media_meta_text")?.textContent.trim();
       
       // Get WeChat account name
       const subscriptionAccount = metaContent.querySelector('.rich_media_meta_nickname a')?.textContent.trim() || '';
