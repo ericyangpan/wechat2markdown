@@ -74,6 +74,21 @@ export async function crawlWeChatArticle(url) {
       bulletListMarker: '-'
     });
 
+    // Add custom rule to remove empty elements
+    turndownService.addRule('removeEmpty', {
+      filter: function (node) {
+        // Check if node is an element and has no meaningful content
+        return (
+          node.nodeType === 1 && // Element node
+          !node.querySelector('img') && // Not containing images
+          node.textContent.trim() === '' // No text content
+        );
+      },
+      replacement: function () {
+        return ''; // Return empty string to remove the element
+      }
+    });
+
     // Add custom rule for tables
     turndownService.addRule('tables', {
       filter: ['table'],
