@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "bin": {
-    "wechat2markdown": "./index.js"
+    "wechat2md": "./index.js"
   },
   "scripts": {
     "start": "node index.js"
