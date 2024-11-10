@@ -60,7 +60,7 @@ export async function crawlWeChatArticle(url) {
       return {
         isOriginal,
         author,
-        subscriptionAccount: subscriptionAccount,
+        subscriptionAccount,
         publishTime,
         location,
       };
@@ -125,10 +125,10 @@ export async function crawlWeChatArticle(url) {
     // Add meta information in front matter
     const markdownWithMeta = `---
 url: ${url}
-isOriginal: ${metaInfo.isOriginal}
+is_original: ${metaInfo.isOriginal}
 author: ${metaInfo.author}
-subscriptionAccount: ${metaInfo.subscriptionAccount}
-publishTime: ${metaInfo.publishTime}
+subscription_account: ${metaInfo.subscriptionAccount}
+publish_time: ${metaInfo.publishTime}
 location: ${metaInfo.location}
 ---
 
